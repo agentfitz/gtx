@@ -2,7 +2,7 @@ body { margin: 0; padding: 0; color: #555; background: #ccc url("../img/backgrou
 
 #container { max-width: 800px; margin: 20px auto 0; background: #f7f7f7; overflow: auto; padding: 40px; border-radius: 20px; border: 10px solid #0073ea; }
 h1,h2,h3,h4,h5 { margin-bottom: 0; }
-h1 { font-size: 38px; }
+h1 { font-size: 32px; }
 h2 { font-size: 18px; }
 .first { margin-top: 0; }
 
